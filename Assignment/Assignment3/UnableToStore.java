@@ -1,5 +1,6 @@
 /**
  * Give two examples of data that cannot be stored in a variable of type int
+ * This class does not compile because of the issue in type conversion
  */
 public class UnableToStore
 {
